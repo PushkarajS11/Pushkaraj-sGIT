@@ -1,3 +1,4 @@
 This is FRESHFILE2.TXT
 new change in freshfile2.txt
 ANOTHER CHANGE
+TEST for ammend command
